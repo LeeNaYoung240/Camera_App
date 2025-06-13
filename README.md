@@ -18,3 +18,5 @@ esc키만 누를 경우 계속 기능을 무한루프로 돌게 되고 x를 그�
 
 # 결과 영상
 https://www.youtube.com/watch?v=gR2mlCJo6M8
+
+
